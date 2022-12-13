@@ -1,3 +1,41 @@
+h1 {
+  font-weight: bold;
+  font-size: xx-large;
+  padding: 25px;
+}
+
+div {
+  border-left: 5px solid lightgrey;
+  padding: 15px;
+  margin: 25px;
+}
+
+.answer {
+  background-color: rgb(253, 249, 210);
+}
+
+p {
+  margin-bottom: 0px;
+}
+
+.responder {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.link {
+  border-left: none;
+}
+
+.ask {
+  border-left: none;
+}
+
+
+
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
